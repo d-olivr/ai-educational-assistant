@@ -18,20 +18,3 @@ Our work involve collecting, cleaning and preparing educational datasets, then u
 <a href="https://github.com/d-olivr/ai-educational-assistant/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=d-olivr/ai-educational-assistant" />
 </a>
-
-## ⚙️ Installation & Usage
-
-1. Clone this repository
-   ```
-   git clone https://github.com/d-olivr/ai_tutor.git
-   cd ai_tutor
-   ```
-3. Install dependencies
-   ```
-   pip install -r requirements.txt
-   ```
-4. Run Jupyter Notebook
-   ```
-   jupyter notebook
-   ```
-6. Open the provided notebooks and you'll be able to explore our project’s data analysis and machine learning experiments.
